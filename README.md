@@ -1,4 +1,4 @@
-# ML-housing-project
+# House Cost Predictions
 Predicting the prices of housing using three supervised machine learning models and comparing their RMSEs.
 1. Decision Tree:
     Mean: 4.037272953976129
